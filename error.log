@@ -1,0 +1,9 @@
+Function DrawLines failed with HRESULT D3DERR_INVALIDCALL in file c:\programming\neverwood\neverwood\neverwood directx\direct3d.h, line 751
+   Invalid call
+
+Function DrawLines failed with HRESULT D3DERR_INVALIDCALL in file c:\programming\neverwood\neverwood\neverwood directx\direct3d.h, line 751
+   Invalid call
+
+Function SetVertexFormat SetFVF failed with HRESULT D3DERR_INVALIDCALL in file c:\programming\neverwood\neverwood\neverwood directx\direct3d.h, line 665
+   Invalid call
+
